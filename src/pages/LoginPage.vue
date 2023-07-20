@@ -18,9 +18,9 @@
         <Button :loading="loginLoading" @click="handleLogin" long size="large" type="primary"
           >Login</Button
         >
-        <Link href="/signup" style="width: fit-content"
-          >Do not have an account? click here to sign up!</Link
-        >
+        <Link href="/signup" style="width: fit-content">
+          Do not have an account? click here to sign up!
+        </Link>
       </div>
     </div>
   </div>
